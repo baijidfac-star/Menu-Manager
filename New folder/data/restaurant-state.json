@@ -1,0 +1,1112 @@
+{
+  "restaurantName": "Bistro Solis",
+  "wifi": {
+    "ssid": "BistroSolis_Guest",
+    "password": "SolisTable2026"
+  },
+  "currency": {
+    "code": "BDT",
+    "symbol": "৳",
+    "name": "Bangladeshi Taka"
+  },
+  "staffPinEnabled": false,
+  "staffPin": "1234",
+  "tables": [
+    {
+      "id": "T01",
+      "label": "Table 01",
+      "seats": 2,
+      "zone": "Patio",
+      "status": "Free",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 120,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T02",
+      "label": "Table 02",
+      "seats": 4,
+      "zone": "Main Hall",
+      "status": "Occupied",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 210,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T03",
+      "label": "Table 03",
+      "seats": 2,
+      "zone": "Window",
+      "status": "Free",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 80,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T04",
+      "label": "Table 04",
+      "seats": 6,
+      "zone": "Main Hall",
+      "status": "Needs Help",
+      "waiterCall": {
+        "active": true,
+        "requestedAt": 1795254665540,
+        "status": "Requested",
+        "reason": "Extra water & napkins"
+      },
+      "rewardsPoints": 460,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T05",
+      "label": "Table 05",
+      "seats": 2,
+      "zone": "Chef Counter",
+      "status": "Occupied",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 185,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T06",
+      "label": "Table 06",
+      "seats": 4,
+      "zone": "Patio",
+      "status": "Free",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 150,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T07",
+      "label": "Table 07",
+      "seats": 4,
+      "zone": "Window",
+      "status": "Occupied",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 340,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    },
+    {
+      "id": "T08",
+      "label": "Table 08",
+      "seats": 4,
+      "zone": "Chef Counter",
+      "status": "Free",
+      "waiterCall": {
+        "active": false,
+        "requestedAt": null,
+        "status": "None"
+      },
+      "rewardsPoints": 90,
+      "redeemedRewardCredit": 0,
+      "ticTacToe": {
+        "board": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "turn": "X",
+        "winner": null,
+        "mode": "solo",
+        "scores": {
+          "X": 1,
+          "O": 0,
+          "draws": 1
+        }
+      },
+      "lastSettlement": null
+    }
+  ],
+  "menu": [
+    {
+      "id": "m-arancini",
+      "name": "Crispy Truffle Arancini",
+      "description": "Wild mushroom risotto spheres, shaved 24-month Parmigiano, roasted garlic aioli.",
+      "category": "Starters",
+      "station": "Fry",
+      "basePrice": 14,
+      "costPrice": 4.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "3 pcs",
+          "priceDelta": 0
+        },
+        {
+          "size": "M",
+          "label": "5 pcs",
+          "priceDelta": 5
+        },
+        {
+          "size": "L",
+          "label": "8 pcs",
+          "priceDelta": 10
+        }
+      ],
+      "allergens": [
+        "Contains dairy",
+        "Contains egg",
+        "Contains gluten"
+      ],
+      "spiceLevel": 0,
+      "image": "/src/assets/images/dish_truffle_arancini_1795213821474.jpg",
+      "dealTag": "Happy Hour",
+      "dealDiscount": 2,
+      "prepMinutes": 8,
+      "available": true
+    },
+    {
+      "id": "m-calamari",
+      "name": "Charred Chili Calamari",
+      "description": "Flash-fried squid rings, Calabrian chili glaze, pickled fennel, charred lemon.",
+      "category": "Starters",
+      "station": "Fry",
+      "basePrice": 16,
+      "costPrice": 5.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Solo",
+          "priceDelta": 0
+        },
+        {
+          "size": "M",
+          "label": "Share",
+          "priceDelta": 6
+        },
+        {
+          "size": "L",
+          "label": "Table",
+          "priceDelta": 11
+        }
+      ],
+      "allergens": [
+        "Contains shellfish",
+        "Contains gluten"
+      ],
+      "spiceLevel": 2,
+      "prepMinutes": 7,
+      "available": true
+    },
+    {
+      "id": "m-burrata",
+      "name": "Heirloom Burrata & Pistachio",
+      "description": "Creamy Pugliese burrata, roasted Bronte pistachios, basil oil, grilled sourdough.",
+      "category": "Starters",
+      "station": "Grill",
+      "basePrice": 15,
+      "costPrice": 5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Half",
+          "priceDelta": -3
+        },
+        {
+          "size": "M",
+          "label": "Standard",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Double",
+          "priceDelta": 9
+        }
+      ],
+      "allergens": [
+        "Contains dairy",
+        "Contains nuts",
+        "Contains gluten"
+      ],
+      "spiceLevel": 0,
+      "prepMinutes": 6,
+      "available": true
+    },
+    {
+      "id": "m-ribeye",
+      "name": "Wood-Fired Prime Ribeye",
+      "description": "12oz dry-aged ribeye seared over oak embers, bone marrow herb butter, blistered broccolini.",
+      "category": "Mains",
+      "station": "Grill",
+      "basePrice": 44,
+      "costPrice": 16.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "8oz Cut",
+          "priceDelta": -8
+        },
+        {
+          "size": "M",
+          "label": "12oz Cut",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "16oz Reserve",
+          "priceDelta": 14
+        }
+      ],
+      "allergens": [
+        "Contains dairy"
+      ],
+      "spiceLevel": 1,
+      "image": "/src/assets/images/dish_charred_ribeye_1795213820922.jpg",
+      "prepMinutes": 16,
+      "available": true
+    },
+    {
+      "id": "m-rigatoni",
+      "name": "Spicy Vodka Rigatoni",
+      "description": "Bronze-die rigatoni, slow-simmered Calabrian tomato cream, torn burrata, basil.",
+      "category": "Mains",
+      "station": "Grill",
+      "basePrice": 24,
+      "costPrice": 7.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Half Bowl",
+          "priceDelta": -5
+        },
+        {
+          "size": "M",
+          "label": "Full Bowl",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Feast",
+          "priceDelta": 9
+        }
+      ],
+      "allergens": [
+        "Contains dairy",
+        "Contains gluten"
+      ],
+      "spiceLevel": 2,
+      "image": "/src/assets/images/dish_spicy_rigatoni_1795213820714.jpg",
+      "dealTag": "Chef Special",
+      "dealDiscount": 3,
+      "prepMinutes": 12,
+      "available": true
+    },
+    {
+      "id": "m-chicken-katsu",
+      "name": "Crispy Sesame Chicken Cutlet",
+      "description": "Panko-crusted free-range thigh, fiery chili crisp honey, yuzu cabbage slaw.",
+      "category": "Mains",
+      "station": "Fry",
+      "basePrice": 23,
+      "costPrice": 7.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Single",
+          "priceDelta": 0
+        },
+        {
+          "size": "M",
+          "label": "Double",
+          "priceDelta": 6
+        },
+        {
+          "size": "L",
+          "label": "Platter",
+          "priceDelta": 12
+        }
+      ],
+      "allergens": [
+        "Contains gluten",
+        "Contains egg",
+        "Contains sesame"
+      ],
+      "spiceLevel": 3,
+      "prepMinutes": 11,
+      "available": true
+    },
+    {
+      "id": "m-fries",
+      "name": "Truffle Parmigiano Fries",
+      "description": "Hand-cut twice-cooked Kennebec potatoes, white truffle oil, rosemary sea salt.",
+      "category": "Starters",
+      "station": "Fry",
+      "basePrice": 11,
+      "costPrice": 3,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Side",
+          "priceDelta": -2
+        },
+        {
+          "size": "M",
+          "label": "Regular",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Basket",
+          "priceDelta": 5
+        }
+      ],
+      "allergens": [
+        "Contains dairy"
+      ],
+      "spiceLevel": 0,
+      "prepMinutes": 6,
+      "available": true
+    },
+    {
+      "id": "m-tiramisu",
+      "name": "Espresso & Yuzu Tiramisu",
+      "description": "Mascarpone zabaglione, single-origin espresso savoiardi, candied yuzu peel, dark cocoa.",
+      "category": "Desserts",
+      "station": "Bar",
+      "basePrice": 13,
+      "costPrice": 4,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Petite",
+          "priceDelta": -3
+        },
+        {
+          "size": "M",
+          "label": "Classic",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Share",
+          "priceDelta": 7
+        }
+      ],
+      "allergens": [
+        "Contains dairy",
+        "Contains egg",
+        "Contains gluten"
+      ],
+      "spiceLevel": 0,
+      "image": "/src/assets/images/dish_yuzu_tiramisu_1795213822120.jpg",
+      "prepMinutes": 4,
+      "available": true
+    },
+    {
+      "id": "m-panna-cotta",
+      "name": "Roasted Hazelnut Panna Cotta",
+      "description": "Silky vanilla bean cream, caramelized Piedmont hazelnut praline, salted espresso caramel.",
+      "category": "Desserts",
+      "station": "Bar",
+      "basePrice": 12,
+      "costPrice": 3.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Petite",
+          "priceDelta": -2
+        },
+        {
+          "size": "M",
+          "label": "Classic",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Double",
+          "priceDelta": 6
+        }
+      ],
+      "allergens": [
+        "Contains dairy",
+        "Contains nuts"
+      ],
+      "spiceLevel": 0,
+      "prepMinutes": 4,
+      "available": true
+    },
+    {
+      "id": "m-spritz",
+      "name": "Blood Orange & Rosemary Spritz",
+      "description": "Sicilian blood orange aperitivo, prosecco brut, charred rosemary, hand-cut crystal ice.",
+      "category": "Drinks",
+      "station": "Bar",
+      "basePrice": 15,
+      "costPrice": 4,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Zero-Proof",
+          "priceDelta": -4
+        },
+        {
+          "size": "M",
+          "label": "Glass",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Carafe",
+          "priceDelta": 18
+        }
+      ],
+      "allergens": [],
+      "spiceLevel": 0,
+      "image": "/src/assets/images/dish_citrus_spritz_1795213820204.jpg",
+      "dealTag": "Aperitivo",
+      "dealDiscount": 2,
+      "prepMinutes": 3,
+      "available": true
+    },
+    {
+      "id": "m-ginger-mule",
+      "name": "Spiced Ginger & Lime Fizz",
+      "description": "Cold-pressed fiery ginger beer, toasted lime leaf, botanical tonic, crushed ice.",
+      "category": "Drinks",
+      "station": "Bar",
+      "basePrice": 9,
+      "costPrice": 2.5,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "10 oz",
+          "priceDelta": -2
+        },
+        {
+          "size": "M",
+          "label": "14 oz",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Pitcher",
+          "priceDelta": 12
+        }
+      ],
+      "allergens": [],
+      "spiceLevel": 1,
+      "prepMinutes": 2,
+      "available": true
+    },
+    {
+      "id": "m-espresso-tonic",
+      "name": "Artisan Espresso Tonic",
+      "description": "Double ristretto pulled over chilled botanical tonic with expressed orange peel.",
+      "category": "Drinks",
+      "station": "Bar",
+      "basePrice": 8,
+      "costPrice": 2,
+      "sizes": [
+        {
+          "size": "S",
+          "label": "Single",
+          "priceDelta": -1
+        },
+        {
+          "size": "M",
+          "label": "Double",
+          "priceDelta": 0
+        },
+        {
+          "size": "L",
+          "label": "Tall",
+          "priceDelta": 3
+        }
+      ],
+      "allergens": [],
+      "spiceLevel": 0,
+      "prepMinutes": 3,
+      "available": true
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal-aperitivo",
+      "title": "Golden Hour Duo",
+      "subtitle": "Crispy Truffle Arancini + Blood Orange Spritz",
+      "menuItemIds": [
+        "m-arancini",
+        "m-spritz"
+      ],
+      "bundlePrice": 24,
+      "regularPrice": 29,
+      "stationSummary": "Fry + Bar"
+    },
+    {
+      "id": "deal-pasta-night",
+      "title": "Bistro Pasta & Tiramisu",
+      "subtitle": "Spicy Vodka Rigatoni + Espresso Yuzu Tiramisu",
+      "menuItemIds": [
+        "m-rigatoni",
+        "m-tiramisu"
+      ],
+      "bundlePrice": 31,
+      "regularPrice": 37,
+      "stationSummary": "Grill + Bar"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1036",
+      "tableId": "T07",
+      "status": "Served",
+      "createdAt": 1795253320540,
+      "updatedAt": 1795253920540,
+      "settled": false,
+      "items": [
+        {
+          "id": "oi-1",
+          "menuItemId": "m-arancini",
+          "name": "Crispy Truffle Arancini",
+          "station": "Fry",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 19,
+          "discountPerUnit": 2,
+          "itemStatus": "Ready"
+        },
+        {
+          "id": "oi-2",
+          "menuItemId": "m-spritz",
+          "name": "Blood Orange & Rosemary Spritz",
+          "station": "Bar",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 15,
+          "discountPerUnit": 2,
+          "itemStatus": "Ready"
+        }
+      ]
+    },
+    {
+      "id": "ORD-1038",
+      "tableId": "T02",
+      "status": "Sent to Kitchen",
+      "createdAt": 1795254520540,
+      "updatedAt": 1795254580540,
+      "settled": false,
+      "items": [
+        {
+          "id": "oi-3",
+          "menuItemId": "m-ribeye",
+          "name": "Wood-Fired Prime Ribeye",
+          "station": "Grill",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 44,
+          "discountPerUnit": 0,
+          "notes": "Medium rare",
+          "itemStatus": "Pending"
+        },
+        {
+          "id": "oi-4",
+          "menuItemId": "m-espresso-tonic",
+          "name": "Artisan Espresso Tonic",
+          "station": "Bar",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 8,
+          "discountPerUnit": 0,
+          "itemStatus": "Pending"
+        }
+      ]
+    },
+    {
+      "id": "ORD-1039",
+      "tableId": "T04",
+      "status": "Preparing",
+      "createdAt": 1795254100540,
+      "updatedAt": 1795254400540,
+      "settled": false,
+      "items": [
+        {
+          "id": "oi-5",
+          "menuItemId": "m-chicken-katsu",
+          "name": "Crispy Sesame Chicken Cutlet",
+          "station": "Fry",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 29,
+          "discountPerUnit": 0,
+          "itemStatus": "Preparing"
+        },
+        {
+          "id": "oi-6",
+          "menuItemId": "m-burrata",
+          "name": "Heirloom Burrata & Pistachio",
+          "station": "Grill",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 15,
+          "discountPerUnit": 0,
+          "itemStatus": "Ready"
+        }
+      ]
+    },
+    {
+      "id": "ORD-1040",
+      "tableId": "T05",
+      "status": "Placed",
+      "createdAt": 1795254700540,
+      "updatedAt": 1795254700540,
+      "settled": false,
+      "items": [
+        {
+          "id": "oi-7",
+          "menuItemId": "m-calamari",
+          "name": "Charred Chili Calamari",
+          "station": "Fry",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 22,
+          "discountPerUnit": 0,
+          "itemStatus": "Pending"
+        },
+        {
+          "id": "oi-8",
+          "menuItemId": "m-ginger-mule",
+          "name": "Spiced Ginger & Lime Fizz",
+          "station": "Bar",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 9,
+          "discountPerUnit": 0,
+          "itemStatus": "Pending"
+        }
+      ]
+    },
+    {
+      "id": "ORD-1041",
+      "tableId": "T07",
+      "status": "Preparing",
+      "createdAt": 1795254340540,
+      "updatedAt": 1795254520540,
+      "settled": false,
+      "items": [
+        {
+          "id": "oi-9",
+          "menuItemId": "m-rigatoni",
+          "name": "Spicy Vodka Rigatoni",
+          "station": "Grill",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 24,
+          "discountPerUnit": 3,
+          "itemStatus": "Preparing"
+        },
+        {
+          "id": "oi-10",
+          "menuItemId": "m-fries",
+          "name": "Truffle Parmigiano Fries",
+          "station": "Fry",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 11,
+          "discountPerUnit": 0,
+          "itemStatus": "Preparing"
+        }
+      ]
+    }
+  ],
+  "sales": [
+    {
+      "id": "TXN-9041",
+      "receiptId": "RCPT-481022",
+      "orderIds": [
+        "ORD-1035"
+      ],
+      "tableId": "T03",
+      "tableLabel": "Table 03",
+      "paidAt": 1795251640540,
+      "items": [
+        {
+          "menuItemId": "m-ribeye",
+          "name": "Wood-Fired Prime Ribeye",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 44,
+          "costPrice": 16.5,
+          "lineTotal": 88,
+          "lineCost": 33
+        },
+        {
+          "menuItemId": "m-spritz",
+          "name": "Blood Orange & Rosemary Spritz",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 15,
+          "costPrice": 4,
+          "lineTotal": 26,
+          "lineCost": 8
+        }
+      ],
+      "subtotal": 118,
+      "discount": 4,
+      "rewardCredit": 0,
+      "tax": 9.69,
+      "serviceCharge": 5.7,
+      "tipAmount": 11.4,
+      "total": 140.79,
+      "cogs": 41,
+      "paymentMethod": "Card",
+      "payerName": "Tariq Rahman",
+      "referenceNote": "VISA •• 4821"
+    },
+    {
+      "id": "TXN-9040",
+      "receiptId": "RCPT-480915",
+      "orderIds": [
+        "ORD-1034"
+      ],
+      "tableId": "T01",
+      "tableLabel": "Table 01",
+      "paidAt": 1795246060540,
+      "items": [
+        {
+          "menuItemId": "m-rigatoni",
+          "name": "Spicy Vodka Rigatoni",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 24,
+          "costPrice": 7.5,
+          "lineTotal": 42,
+          "lineCost": 15
+        },
+        {
+          "menuItemId": "m-tiramisu",
+          "name": "Espresso & Yuzu Tiramisu",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 13,
+          "costPrice": 4,
+          "lineTotal": 13,
+          "lineCost": 4
+        }
+      ],
+      "subtotal": 61,
+      "discount": 6,
+      "rewardCredit": 0,
+      "tax": 4.68,
+      "serviceCharge": 2.75,
+      "tipAmount": 5.5,
+      "total": 67.93,
+      "cogs": 19,
+      "paymentMethod": "Cash",
+      "payerName": "Walk-in Party",
+      "referenceNote": "Exact cash settled"
+    },
+    {
+      "id": "TXN-9039",
+      "receiptId": "RCPT-478310",
+      "orderIds": [
+        "ORD-1029"
+      ],
+      "tableId": "T06",
+      "tableLabel": "Table 06",
+      "paidAt": 1795081960540,
+      "items": [
+        {
+          "menuItemId": "m-chicken-katsu",
+          "name": "Crispy Sesame Chicken Cutlet",
+          "size": "L",
+          "quantity": 2,
+          "unitPrice": 35,
+          "costPrice": 7.5,
+          "lineTotal": 70,
+          "lineCost": 15
+        },
+        {
+          "menuItemId": "m-ginger-mule",
+          "name": "Spiced Ginger & Lime Fizz",
+          "size": "M",
+          "quantity": 3,
+          "unitPrice": 9,
+          "costPrice": 2.5,
+          "lineTotal": 27,
+          "lineCost": 7.5
+        }
+      ],
+      "subtotal": 97,
+      "discount": 0,
+      "rewardCredit": 5,
+      "tax": 7.82,
+      "serviceCharge": 4.6,
+      "tipAmount": 9.2,
+      "total": 113.62,
+      "cogs": 22.5,
+      "paymentMethod": "Google Pay",
+      "payerName": "Nadia Karim",
+      "referenceNote": "GPay #GP9021"
+    },
+    {
+      "id": "TXN-9038",
+      "receiptId": "RCPT-471204",
+      "orderIds": [
+        "ORD-1021"
+      ],
+      "tableId": "T08",
+      "tableLabel": "Table 08",
+      "paidAt": 1794477160540,
+      "items": [
+        {
+          "menuItemId": "m-ribeye",
+          "name": "Wood-Fired Prime Ribeye",
+          "size": "L",
+          "quantity": 1,
+          "unitPrice": 58,
+          "costPrice": 16.5,
+          "lineTotal": 58,
+          "lineCost": 16.5
+        },
+        {
+          "menuItemId": "m-burrata",
+          "name": "Heirloom Burrata & Pistachio",
+          "size": "M",
+          "quantity": 2,
+          "unitPrice": 15,
+          "costPrice": 5,
+          "lineTotal": 30,
+          "lineCost": 10
+        }
+      ],
+      "subtotal": 88,
+      "discount": 0,
+      "rewardCredit": 0,
+      "tax": 7.48,
+      "serviceCharge": 4.4,
+      "tipAmount": 8.8,
+      "total": 108.68,
+      "cogs": 26.5,
+      "paymentMethod": "Bank Transfer",
+      "payerName": "Corporate Lunch · Solis Partners",
+      "referenceNote": "Ref #BEFTN-7741"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "exp-1",
+      "date": "2026-11-21",
+      "category": "Bazar / Raw Materials",
+      "amount": 38,
+      "paymentMethod": "Cash",
+      "note": "Morning produce, fresh basil, heirloom tomatoes & dairy restock",
+      "createdAt": 1795240360540,
+      "updatedAt": 1795240360540
+    },
+    {
+      "id": "exp-2",
+      "date": "2026-11-19",
+      "category": "Gas / Electricity / Utilities",
+      "amount": 24,
+      "paymentMethod": "Bank Transfer",
+      "note": "Kitchen gas cylinder & commercial prep line power",
+      "createdAt": 1795081960540,
+      "updatedAt": 1795081960540
+    },
+    {
+      "id": "exp-3",
+      "date": "2026-11-15",
+      "category": "Staff Salary",
+      "amount": 95,
+      "paymentMethod": "Bank Transfer",
+      "note": "Weekly kitchen & floor shift payroll advance",
+      "createdAt": 1794736360540,
+      "updatedAt": 1794736360540
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "tableId": "T03",
+      "rating": 5,
+      "comment": "Ordering from the table and splitting the check took seconds. Ribeye was spot on.",
+      "createdAt": 1795251880540
+    }
+  ],
+  "nextOrderSeq": 1042
+}

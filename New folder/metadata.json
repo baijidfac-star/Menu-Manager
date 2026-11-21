@@ -1,0 +1,6 @@
+{
+  "name": "Bistro Solis — TableOS & Kitchen Display",
+  "description": "Real-time table-side restaurant operating system connecting guest mobile dining, floor staff dispatch, and multi-station kitchen display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
